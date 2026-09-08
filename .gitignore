@@ -10,3 +10,4 @@
 *.bak
 *.bak.*
 *.bak-*
+.DS_Store
